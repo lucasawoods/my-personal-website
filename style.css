@@ -19,3 +19,10 @@ li {
 h2 {
     text-align: center;
 }
+
+.portfolio-photo {
+    display: block;
+    height: 300px;
+    width: auto;
+    padding: 1%;
+}
